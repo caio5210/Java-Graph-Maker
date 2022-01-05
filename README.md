@@ -9,6 +9,7 @@ Link para o [Replit](https://replit.com/@CaioVieira2/Projeto-ANTLR-Grafo) do nos
 Link para o [Replit](https://replit.com/@CaioVieira2/Projeto-de-DSL-Interno) da versão inicial do nosso projeto (DSL Interna).
 
 ## II) Motivação
+Nosso interesse pelo assunto de grafos gerou  o desejo de implementá-los de forma alternativa, sendo assim utilizamos Java e os conhecimentos de compiladores adquiridos ao longo do semestre para criar uma nova linguagem que cria grafos.
 
 ## III) Linguagens Utilizadas
 
