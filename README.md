@@ -19,7 +19,9 @@ Link para o [Replit](https://replit.com/@CaioVieira2/Projeto-de-DSL-Interno) da 
 
 Nosso interesse pelo assunto de grafos gerou o desejo de implementá-los de forma alternativa, sendo assim utilizamos Java e os conhecimentos de compiladores adquiridos ao longo do semestre para criar uma nova linguagem que cria grafos. Essa ideia surgiu, pois as diferentes formas de introduzir e representar um gráfico são: Lista de Adjacência e Matriz de Adjacência. O que é mais difícil de usar, especialmente em linguagens como Java, que não têm matrizes como cidadãos de primeira classe.
 
-## III) Linguagens Utilizadas e Função dos Arquivos
+## III) Linguagens Utilizadas
+
+A principal linguagem utilizada no rojeto foi o *Java* em conjunto com a ferramente *ANTLR*. 
 
 ## IV) Manual
 
@@ -31,3 +33,7 @@ Comandos dentro do Comp.sh:
 
 
 ## V) Informações Adicionais
+
+O nosso codigo ficou dividido em três tipos de arquivos: o arquivo .g4 para o desenvolvimento da nossa gramatica, o nosso arquivo .graph que corresponde a nossa DSL e os arquivos Java para a realização dos codigos. Adicionalmente temos os arquivos gerados pelo ANTLR dentro da Pasta graph.
+
+A nossa principal referencia é o [site do ANTLR](https://www.antlr.org/).
