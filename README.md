@@ -21,7 +21,7 @@ Nosso interesse pelo assunto de grafos gerou o desejo de implementá-los de form
 
 ## III) Linguagens Utilizadas
 
-A principal linguagem utilizada no rojeto foi o *Java* em conjunto com a ferramente *ANTLR*. 
+A principal linguagem utilizada no rojeto foi o *Java* em conjunto com a ferramente *ANTLR*. Escolhemos a lang Java devido ao fato de ser a linguagem temos mais familiaridade em trabalhar e o ANTLR visto que trabalhamos em sala de aula. 
 
 ## IV) Manual
 
